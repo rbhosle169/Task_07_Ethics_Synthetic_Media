@@ -1,5 +1,3 @@
-# Task_07_Ethics_Synthetic_Media
-
 # Research Task 7: Ethics of Synthetic Representation
 
 ## Project Overview
